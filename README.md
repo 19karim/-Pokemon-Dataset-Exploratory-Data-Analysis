@@ -1,4 +1,6 @@
 Pokemon Dataset Exploratory Data Analysis (EDA)
+
+
 Overview:
 This repository contains an Exploratory Data Analysis (EDA) on the Pokemon dataset. The analysis includes the creation of various visualizations such as count plots, scatter plots, and histogram charts to gain insights into the dataset. Additionally, feature selection, data cleaning, and handling of missing values have been performed to ensure the quality of the analysis.
 
